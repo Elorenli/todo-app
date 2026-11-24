@@ -1,0 +1,20 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "exposicion de lengua española",
+      "done": false
+    },
+    {
+      "id": 2,
+      "title": "tarea de educación física",
+      "done": false
+    },
+    {
+      "id": 3,
+      "title": "tarea de mancebo",
+      "done": false
+    }
+  ],
+  "nextId": 4
+}
